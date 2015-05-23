@@ -12,7 +12,7 @@ The data was retrieved from the Human Activity Recognition Using Smartphones Dat
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-### Assumptions and dependecies
+### Assumptions and dependencies
 The run_analysis.R file assumes, that the .zip file was downloaded and extracted with relative paths in the current working directory.
 run_analysis.R assumes that the following R packages have been installed:
 

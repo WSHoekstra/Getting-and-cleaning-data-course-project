@@ -5,6 +5,11 @@ date: "Saturday, May 23, 2015"
 output: html_document
 ---
 
+### Description
+This repository was created as part of a Coursera course assignment to analyse and clean data. 
+The data, which is processed by the scripts in this reposiory, was retrieved from the Human Activity Recognition Using Smartphones Data Set, from the UCI Machine Learning repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The source data is available for download from the following web location: 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 ## Steps
 The run_analysis.R file manipulates the source data in the following way:
 
